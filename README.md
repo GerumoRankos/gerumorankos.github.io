@@ -1,3 +1,5 @@
+# gerumorankos.github.io
+
 Privacy Policy 
 This privacy policy applies to the House of Open Hands app for mobile devices, together with any related services operated by Gerumo Rankos (collectively, the "Application"). Gerumo Rankos is hereby referred to as the "Service Provider".
 
